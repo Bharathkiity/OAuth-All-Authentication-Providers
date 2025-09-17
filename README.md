@@ -26,10 +26,9 @@ Users can log in using **OAuth providers (Google, GitHub, Facebook)**, and acces
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 **All Authentication Providers**  
-![All Providers](screenshots/All authentication providers.png)
+![All Providers](https://github.com/Bharathkiity/OAuth-All-Authentication-Providers/blob/main/All%20authentication%20providers.png?raw=true)
 
 **Login with Github**  
 ![GitHub Login](screenshots/login with Github.png)
